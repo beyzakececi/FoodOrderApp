@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589548146471",
+    "project_id": "food-order-app-65019",
+    "storage_bucket": "food-order-app-65019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589548146471:android:01c005c0428f0bc519a302",
+        "android_client_info": {
+          "package_name": "com.beyzakececi.foodorderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC76Y0ds0fWL5FvH2XNZNRsOWq_jInYNQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
